@@ -1,0 +1,11 @@
+INDEX VERSION 1.129+C:\Users\sandra\Documents\EDAA55-HT17\pt-workspace\.metadata\.plugins\org.eclipse.jdt.core
+520613300.index
+1744887074.index
+299656582.index
+2343811157.index
+4173316275.index
+4291953834.index
+1914818206.index
+380739999.index
+1639354633.index
+2295673916.index
